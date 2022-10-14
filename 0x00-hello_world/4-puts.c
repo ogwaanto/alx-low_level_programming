@@ -1,16 +1,18 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - Entry point
  *
- * My puts task
+ * Description: prints "\"Programming is like building a multilingual puzzle"
  *
- * return - return 0 after programme execution
+ * Return: 0
  */
+
+
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");	
-	return (0);
+
+		puts("\"Programming is like building a multilingual puzzle");
+		return (0);
+
 }
-
-
