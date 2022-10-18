@@ -2,8 +2,8 @@
 #include <unistd.h>
 /**
  * main - entry point
- * description: prints lowercase alphabets in reverse
- * return: Always 0 (success)
+ * Description: prints lowercase alphabets in reverse
+ * Return: Always 0 (success)
  */
 int main(void)
 {
