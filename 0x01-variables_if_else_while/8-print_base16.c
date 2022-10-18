@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main
+ * main - entry point
  * Description: Print base 16 numbers
  * Return: Always 0 (success)
  */
@@ -20,5 +20,5 @@ int main(void)
 		putchar(c);
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
