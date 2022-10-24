@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- *  * more_numbers - prints 0 - 14
- *   *
- *    * Return: void
- *     */
+ * more_numbers - prints 0 - 14
+ *
+ * Return: void
+ */
 
 void more_numbers(void)
 {
