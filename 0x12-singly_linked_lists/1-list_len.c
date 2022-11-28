@@ -1,5 +1,7 @@
 #include "lists.h"
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * list_len - Finds the number of elements in
@@ -18,6 +20,5 @@ size_t list_len(const list_t *h)
 		elements++;
 		h = h->next;
 	}
-
 	return (elements);
 }
