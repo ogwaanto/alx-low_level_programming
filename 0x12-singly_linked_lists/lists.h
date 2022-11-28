@@ -5,7 +5,8 @@
  * Desc: header file containinf prototypes and definitions
  *	for all functions and types written in this proj
  */
-
+#include <string.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
